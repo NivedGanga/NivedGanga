@@ -3,12 +3,10 @@
 
 
 
-🧑‍💻: Flutter Developer at **[Qmark Technolabs](https://qmarktechnolabs.com/)** 
+🧑‍💻: Software Engineer at **[Xero Pixels](https://zero-pixels.com/)** 
 
 
 💫 Check out my [Portfolio website](https://nivedganga.github.io/NivedG/)
-
-
 
 
 
